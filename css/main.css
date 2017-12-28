@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e924ff;
+  background: #ff2444;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2872,7 +2872,7 @@ hr {
 }
 .pagination {
   margin: 120px 0 0;
-  text-align: left;
+  text-align: center;
 }
 @media (max-width: 767px) {
   .pagination {
@@ -2888,7 +2888,7 @@ hr {
 }
 .footer-inner {
   margin: 0 auto;
-  text-align: left;
+  text-align: center;
 }
 @media (max-width: 767px) {
   .footer-inner {
